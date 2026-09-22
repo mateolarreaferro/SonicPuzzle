@@ -5,6 +5,8 @@ MIT Designing Virtual Worlds: 2.177/178, 16.677/678 (Berklee MP-216)
 
 *Find the right room for the music, using only your ears.*
 
+▶ **[Watch the gameplay video](https://vimeo.com/1229330143)**
+
 You start in an empty white room. A track is playing, but it sounds wrong: the room around it doesn't suit it. Somewhere there's a room that makes it sound just like the reference recording. Change the room's **size**, **ceiling** and **material** until what you hear matches. Get all three right and the music opens up, the lights change, and the level clears.
 
 ## Running the game
